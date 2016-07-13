@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ServiceExampleAudio</string>
+    <string name="audio">Audio Service</string>
+    <string name="start">Start Service</string>
+    <string name="stop">Stop Service</string>
+    <string name="next">Next Page</string>
+    <string name="next1">Next Page &#8230;</string>
+</resources>
