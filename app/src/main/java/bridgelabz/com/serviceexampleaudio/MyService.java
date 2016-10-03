@@ -20,7 +20,6 @@ public class MyService extends Service {
     @Override
     public void onCreate() {
         Toast.makeText(this, "Service Created", Toast.LENGTH_LONG).show();
-
         myPlayer = MediaPlayer.create(this,R.raw.bang);
         myPlayer.setLooping(false); // Set looping
     }

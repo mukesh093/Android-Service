@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         stop.setOnClickListener(this);
         next.setOnClickListener(this);
     }
+
     public void onClick(View src) {
         switch (src.getId()) {
             case R.id.button:
